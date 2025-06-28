@@ -21,5 +21,5 @@ jobs:
   run-ci:
     uses: ./.github/workflows/flutter-build.yml
     with:
-      upload-tag: "test"
+      upload-tag: "testuuid"
       upload-artifact: true
